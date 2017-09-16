@@ -1,0 +1,1 @@
+This is HaHa's first git project
